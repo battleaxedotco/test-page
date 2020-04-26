@@ -1,4 +1,4 @@
-## [test-page](battleaxe.dev/test-page)
+## [test-page](https://battleaxe.dev/test-page)
 
 #### A
 
